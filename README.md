@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Othman Laafou</h1>
 <h3 align="center">A passionate frontend developer from Morocco</h3>
+<img align="right"  alt="Coding" width="400" src="![image](https://github.com/othmanlaafou/othmanlaafou/assets/146246259/c8398157-53d1-459d-9abd-8ea6b83106cf)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=othmanlaafou&label=Profile%20views&color=0e75b6&style=flat" alt="othmanlaafou" /> </p>
 
