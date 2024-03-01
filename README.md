@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Othman Laafou</h1>
 <h3 align="center">A passionate frontend developer from Morocco</h3>
-<img align="right"  alt="Coding" width="400" src="https://www.bing.com/images/search?view=detailV2&ccid=jWIfZvVR&id=494502DF3CC237394A8F797DB58E67FC53BA17A7&thid=OIP.jWIfZvVRtqOQckc9UigP8AHaFj&mediaurl=https%3a%2f%2fcdn.dribbble.com%2fusers%2f50886%2fscreenshots%2f2710024%2fcoding.gif&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.8d621f66f551b6a39072473d52280ff0%3frik%3dpxe6U%252fxnjrV9eQ%26pid%3dImgRaw%26r%3d0&exph=600&expw=800&q=Coding+GIF+Images&simid=608031240802142367&FORM=IRPRST&ck=1293669CB7E936B37DFC303750BF9154&selectedIndex=6&itb=0&ajaxhist=0&ajaxserp=0">
+<img align="right"  alt="Coding" width="400" src="https://cdn.dribbble.com/users/50886/screenshots/2710024/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=othmanlaafou&label=Profile%20views&color=0e75b6&style=flat" alt="othmanlaafou" /> </p>
 
