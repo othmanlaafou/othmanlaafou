@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Othman Laafou</h1>
 <h3 align="center">A passionate frontend developer from Morocco</h3>
-<img align="right"  alt="Coding" width="400" src="![image](https://github.com/othmanlaafou/othmanlaafou/assets/146246259/c8398157-53d1-459d-9abd-8ea6b83106cf)">
+<img align="right"  alt="Coding" width="400" src="[![image](https://github.com/othmanlaafou/othmanlaafou/assets/146246259/c8398157-53d1-459d-9abd-8ea6b83106cf)](https://www.bing.com/images/search?view=detailV2&ccid=hQR3%2ftCL&id=DF10FB0CB9404A9D2AAE3F3FA078CD4A215A5FF6&thid=OIP.hQR3_tCL_phZgIK80wnOcAHaFj&mediaurl=https%3a%2f%2fcdn.dribbble.com%2fusers%2f1292677%2fscreenshots%2f6139167%2favento.gif&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.850477fed08bfe98598082bcd309ce70%3frik%3d9l9aIUrNeKA%252fPw%26pid%3dImgRaw%26r%3d0&exph=600&expw=800&q=animated+coding+gif&simid=607996541780701349&FORM=IRPRST&ck=299AB07792DA18729A13F6614CEECB67&selectedIndex=0&itb=0&idpp=overlayview&ajaxhist=0&ajaxserp=0)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=othmanlaafou&label=Profile%20views&color=0e75b6&style=flat" alt="othmanlaafou" /> </p>
 
